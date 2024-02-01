@@ -11,7 +11,7 @@ In recent years, the introduction of deep learning models has sparked widespread
 
 😊 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
 
-* Our Awesome-Local-Feature-Matching reasoning paper: [Local Feature Matching Using Deep Learning:  A Survey](https://github.com/vignywang/Awesome-Local-Feature-Matching) will be published soon.
+* Our Awesome-Local-Feature-Matching reasoning paper: [Local Feature Matching Using Deep Learning:  A Survey](https://arxiv.org/abs/2401.17592) is now public.
 
 ## Table of Contents
 
