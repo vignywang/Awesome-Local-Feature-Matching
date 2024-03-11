@@ -1,17 +1,20 @@
 # Awesome-Local-Feature-Matching
 
-<div style="text-align: justify">
-This is a compilation on "Local Feature Matching Using Deep Learning" including state-of-the-art benchmarks and datasets.
+This is the official repository for the Information Fusion 2024 paper "[Local feature matching using deep learning: A survey](https://www.sciencedirect.com/science/article/pii/S1566253524001222)".
 
-Local feature matching enjoys wide-ranging applications in the realm of computer vision, encompassing domains such as image retrieval, 3D reconstruction, and object recognition. However, challenges persist in improving the accuracy and robustness of matching due to factors like viewpoint and lighting variations. 
+## Abstract
 
-In recent years, the introduction of deep learning models has sparked widespread exploration into local feature matching techniques. The objective of this endeavor is to furnish a comprehensive overview of local feature matching methods. These methods are categorized into two key segments based on the presence of detectors. The Detector-based category encompasses models inclusive of Detect-then-Describe, Joint Detection and Description, Describe-then-Detect, as well as Graph Based techniques. In contrast, the Detector-free category comprises CNN Based, Transformer Based, and Patch Based methods. Our study extends beyond methodological analysis, incorporating evaluations of prevalent datasets and metrics to facilitate a quantitative comparison of state-of-the-art techniques. The paper also explores the practical application of local feature matching in diverse domains such as Structure from Motion, Remote Sensing Image Registration, and Medical Image Registration, underscoring its versatility and significance across various fields. Ultimately, we endeavor to outline the current challenges faced in this domain and furnish future research directions, thereby serving as a reference for researchers involved in local feature matching and its interconnected domains.
+Local feature matching enjoys wide-ranging applications in the realm of computer vision, encompassing domains such as image retrieval, 3D reconstruction, and object recognition. However, challenges persist in improving the accuracy and robustness of matching due to factors like viewpoint and lighting variations. In recent years, the introduction of deep learning models has sparked widespread exploration into local feature matching techniques. The objective of this endeavor is to furnish a comprehensive overview of local feature matching methods. These methods are categorized into two key segments based on the presence of detectors. The Detector-based category encompasses models inclusive of Detect-then-Describe, Joint Detection and Description, Describe-then-Detect, as well as Graph Based techniques. In contrast, the Detector-free category comprises CNN Based, Transformer Based, and Patch Based methods. 
+Our study extends beyond methodological analysis, incorporating evaluations of prevalent datasets and metrics to facilitate a quantitative comparison of state-of-the-art techniques. The paper also explores the practical application of local feature matching in diverse domains such as Structure from Motion, Remote Sensing Image Registration, and Medical Image Registration, underscoring its versatility and significance across various fields. 
+Ultimately, we endeavor to outline the current challenges faced in this domain and furnish future research directions, thereby serving as a reference for researchers involved in local feature matching and its interconnected domains.
+A comprehensive list of studies in this survey is available at [https://github.com/vignywang/Awesome-Local-Feature-Matching](https://github.com/vignywang/Awesome-Local-Feature-Matching).
+
 
 ## News
 
 😊 This project is under development. You can hit the **STAR** and **WATCH** to follow the updates.
 
-* Our Awesome-Local-Feature-Matching reasoning paper: [Local Feature Matching Using Deep Learning:  A Survey](https://arxiv.org/abs/2401.17592) is now public.
+* **2024/03/03**: Our Awesome-Local-Feature-Matching reasoning paper: [Local feature matching using deep learning: A survey](https://www.sciencedirect.com/science/article/pii/S1566253524001222) has been accepted by Information Fusion 2024.
 
 ## Table of Contents
 
