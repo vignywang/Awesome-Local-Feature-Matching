@@ -19,6 +19,7 @@ A comprehensive list of studies in this survey is available at [https://github.c
 ## Table of Contents
 
 - [Awesome-Local-Feature-Matching](#Awesome-Local-Feature-Matching)
+  - [Abstract](#abstract)
   - [News](#news)
   - [Table of Contents](#table-of-contents)
   - [Related Surveys](#related-surveys)
@@ -35,6 +36,7 @@ A comprehensive list of studies in this survey is available at [https://github.c
     - [Structure from Motion](#Structure-from-Motion)
     - [Remote Sensing Image registration](#Remote-Sensing-Image-registration)
     - [Medical Image Registration](#Medical-Image-Registration)
+  - [Acknowledgement](#acknowledgement)
 
 ## Related Surveys
 
@@ -111,3 +113,8 @@ A comprehensive list of studies in this survey is available at [https://github.c
 * Densegap: graph-structured dense correspondence learning with anchor points (ICPR, 2022) [[paper]](https://arxiv.org/pdf/2112.06910)
 
 ## Detector-free Models
+
+
+## Acknowledgement
+
+This work is supported by Beijing Natural Science Foundation No. JQ23014, in part by the National Natural Science Foundation of China (No. 62271074).
