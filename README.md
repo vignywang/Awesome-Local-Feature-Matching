@@ -27,9 +27,9 @@
 </p>
 
 - This is the official companion repository for the survey [Local feature matching using deep learning: A survey](https://www.sciencedirect.com/science/article/pii/S1566253524001222).
-- It organizes deep learning-based local feature matching methods using the survey's detector-based and detector-free taxonomy. The README also tracks representative work published or accepted during 2024–2026.
+- It organizes deep learning-based local feature matching methods using the survey's detector-based and detector-free taxonomy. Also tracks representative work published or accepted during 2024–2026.
 
-> Spotted a missing paper, incorrect metadata, or a broken link? Please open an [Issue](https://github.com/vignywang/Awesome-Local-Feature-Matching/issues) or submit a [pull request](https://github.com/vignywang/Awesome-Local-Feature-Matching/pulls)—PRs are very much appreciated.
+> Spotted a missing paper, incorrect metadata, or a broken link? Please open an [Issue](https://github.com/vignywang/Awesome-Local-Feature-Matching/issues) or submit a [pull request](https://github.com/vignywang/Awesome-Local-Feature-Matching/pulls).
 
 
 <a id="news"></a>
